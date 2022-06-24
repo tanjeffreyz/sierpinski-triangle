@@ -1,7 +1,7 @@
 <div align="center"><h1>Sierpinski Triangle</h1></div>
 Fun little script that draws a Sierpinski triangle
 
-## Summary
+## Methods
 To generate a Sierpinski triangle, pick a random point `x` within the outermost triangle.
 During each iteration, randomly pick one of the three vertices, call it `v`, and find `m = midpoint(x, v)`.
 Plot `m` and update `x <- m` for the next loop
