@@ -18,3 +18,4 @@ Choosing a starting point outside the center inner triangle produces a clean tri
 ### Starting inside the center sub-triangle
 Choosing a starting point inside the center inner triangle blemishes one sub-triangle of each size:
 ![](triangle_start_inside_inner.png)
+ 
