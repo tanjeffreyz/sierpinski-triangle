@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sierpinski Triangle</h1>
-</div>
+</div> 
 A fun little script that draws a Sierpinski triangle.
 
 
